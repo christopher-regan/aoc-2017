@@ -1,4 +1,4 @@
-let day = 15;
+let day = 16;
 let aoc = require(`./modules/day${day}`);
 
 // Star 1
